@@ -6,8 +6,10 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+2.5.1
 
 * System dependencies
+Rails
 
 * Configuration
 
@@ -20,5 +22,10 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+```
+bin/rails server
+```
 
-* ...
+* Reference
+- part 1
+    - https://railsbook.tw/chapters/13-crud-part-1.html#step02-add-model
