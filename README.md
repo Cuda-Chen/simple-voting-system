@@ -29,3 +29,5 @@ bin/rails server
 * Reference
 - part 1
     - https://railsbook.tw/chapters/13-crud-part-1.html#step02-add-model
+- part 2
+    - https://railsbook.tw/chapters/14-crud-part-2.html
