@@ -3,6 +3,7 @@ class CandidatesController < ApplicationController
 
   def index
     @candidates = Candidate.all
+    render layout: "backend"
   end
 
   def new
